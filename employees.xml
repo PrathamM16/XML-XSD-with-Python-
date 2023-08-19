@@ -1,0 +1,71 @@
+<?xml version = '1.0' encoding = 'UTF-8' ?>
+
+<employees>
+    <employee>
+        <employeeID>2347138</employeeID>
+        <personalInfo>
+            <firstName>Pratham </firstName>
+            <lastName>M</lastName>
+            <Dob>16-05-2002</Dob>
+            <gender>Male</gender>
+        </personalInfo>
+        <EmployeeInfo>
+            <position>Senior Manager</position>
+            <salary>200000</salary>
+        </EmployeeInfo>
+        <contactInfo>
+            <email>Pratham@gmail.com</email>
+            <phoneNumber>9876543216</phoneNumber>
+        </contactInfo>
+    </employee>
+    <employee>
+        <personalInfo>
+            <firstName>Pratham</firstName>
+            <lastName>M</lastName>
+            <Dob>16-05-2002</Dob>
+            <gender>Male</gender>
+        </personalInfo>
+        <EmployeeInfo>
+            <position>Senior Manager</position>
+            <salary>2000000</salary>
+        </EmployeeInfo>
+        <contactInfo>
+            <email>Pratham@gmail.com</email>
+            <phoneNumber>9988776622</phoneNumber>
+        </contactInfo>
+    </employee>
+    <employee>
+        <employeeID>12345</employeeID>
+        <personalInfo>
+            <firstName>Rahul</firstName>
+            <lastName>V</lastName>
+            <Dob>25-05-2000</Dob>
+            <gender>Male</gender>
+        </personalInfo>
+        <EmployeeInfo>
+            <position>Senior Developer</position>
+            <salary>400000</salary>
+        </EmployeeInfo>
+        <contactInfo>
+            <email>rahulr@gmail.com</email>
+            <phoneNumber>9877654433</phoneNumber>
+        </contactInfo>
+    </employee>
+    <employee>
+        <employeeID>12345</employeeID>
+        <personalInfo>
+            <firstName>Lenard</firstName>
+            <lastName>B</lastName>
+            <Dob>12-09-2000</Dob>
+            <gender>Male</gender>
+        </personalInfo>
+        <EmployeeInfo>
+            <position>HR Manager</position>
+            <salary>500000</salary>
+        </EmployeeInfo>
+        <contactInfo>
+            <email>len@gmail.com</email>
+            <phoneNumber>9879874433</phoneNumber>
+        </contactInfo>
+    </employee>
+</employees>
